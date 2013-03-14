@@ -1,5 +1,8 @@
 class basic::apps {
-package {'vim':
+package {
+'vim':
+ensure => present;
+'zsh':
 ensure => present,
 }
 }
