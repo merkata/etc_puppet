@@ -1,3 +1,3 @@
-node 'dillinger.globul.bg {
+node 'dillinger.globul.bg' {
 include basic
 }
